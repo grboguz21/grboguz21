@@ -1,6 +1,6 @@
 ## Hi, I'm Oğuzhan 👋
 
-**Robotics software engineer** working with **ROS 2** on mobile robots: navigation, coverage path planning, and plug-and-play hardware integration.
+**Robotics AI Engineer** working with **ROS 2** on mobile robots: navigation, coverage path planning, and plug-and-play hardware integration.
 
 I'm rebuilding **[Fastbot](https://github.com/grboguz21/fastbot)**, an open-source ROS 2 mobile robot platform, and sharing the process in public.
 
