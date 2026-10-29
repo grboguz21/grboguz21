@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Oguz
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Coverage Path Planning
-- 📫 How to reach me grboguz@gmail.com
-- ⚡ Fun fact: I love powerlifting 🏋️
+## Hi, I'm Oğuzhan 👋
 
-<!---
-grboguz21/grboguz21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Robotics software engineer** working with **ROS 2** on mobile robots: navigation, coverage path planning, and plug-and-play hardware integration.
+
+I'm rebuilding **[Fastbot](https://github.com/grboguz21/fastbot)**, an open-source ROS 2 mobile robot platform, and sharing the process in public.
+
+### 🔧 Currently working on
+- **Fastbot**: rebuilding my ROS 2 robot from scratch (ros2_control, SLAM, Nav2)
+- **Coverage path planning** for mobile robots
+- USB plug-and-play **IMU and motor controller modules** for ROS 2 *(in progress)*
+
+### 📌 Featured projects
+| Project | What it is |
+|---|---|
+| [fastbot](https://github.com/grboguz21/fastbot) | ROS 2 workspace for the Fastbot mobile robot: drivers, description, Gazebo, bringup |
+| [fastbot_ros2_docker](https://github.com/grboguz21/fastbot_ros2_docker) | Dockerized ROS 2 environment for Fastbot |
+| [coffee-dispenser-ur3e](https://github.com/grboguz21/coffee-dispenser-ur3e) | [ONE LINE: what the UR3e does and which stack it uses] |
+| [embodied_ai](https://github.com/grboguz21/embodied_ai) | [ONE LINE: what it does] |
+
+### 🛠 Tech
+**Robotics:** ROS 2 · Nav2 · ros2_control · SLAM Toolbox · Gazebo · MoveIt 2
+**Languages:** C++ · Python · JavaScript
+**Hardware:** Raspberry Pi · NVIDIA Jetson · ESP32 · LiDAR · IMU · encoders
+**Tools:** Docker · Linux · Git
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/grb-oguz/) · [Email](mailto:grboguz@gmail.com) · [Devlog]([SITE URL — when it's live])
+
+<sub>Off the keyboard: powerlifting 🏋️</sub>
