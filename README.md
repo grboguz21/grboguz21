@@ -19,10 +19,14 @@ I'm rebuilding **[Fastbot](https://github.com/grboguz21/fastbot)**, an open-sour
 | [embodied_ai](https://github.com/grboguz21/embodied_ai) | Pick-and-place with SmolVLA, a vision-language-action model |
 
 ### 🛠 Tech
-**Robotics:** ROS 2 · Nav2 · ros2_control · SLAM Toolbox · Gazebo · MoveIt 2
+**Robotics:** ROS 2 · Nav2 · ros2_control · SLAM Toolbox · Gazebo · MoveIt 2 
+
 **Embodied AI:** SmolVLA · vision-language-action models
+
 **Languages:** C++ · Python · JavaScript
+
 **Hardware:** Raspberry Pi · NVIDIA Jetson · ESP32 · LiDAR · IMU · encoders
+
 **Tools:** Docker · Linux · Git
 
 ### 📫 Reach me
